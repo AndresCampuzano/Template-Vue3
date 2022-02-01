@@ -1,4 +1,4 @@
-# twotter-vue3-yt
+# template-vue3-yt
 
 ## Project setup
 
